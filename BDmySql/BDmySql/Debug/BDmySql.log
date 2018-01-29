@@ -1,0 +1,27 @@
+﻿  my_ex_duplicat.cpp
+  SearchBD.cpp
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\searchbd.h(7): warning C4584: SearchBD: базовый класс "QueryBD" уже является базовым классом для "InsertBD"
+  c:\users\windows 8.1\desktop\bdmysql\bdmysql\querybd.h(6): note:  см. объявление "QueryBD"
+  c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.h(5): note:  см. объявление "InsertBD"
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\searchbd.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+  QueryBD.cpp
+  InsertBD.cpp
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(27): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(42): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(61): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(76): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(93): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(128): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(141): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(155): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(169): warning C4101: ex: неиспользованная локальная переменная
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(207): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+  BDmySql.cpp
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\searchbd.h(7): warning C4584: SearchBD: базовый класс "QueryBD" уже является базовым классом для "InsertBD"
+  c:\users\windows 8.1\desktop\bdmysql\bdmysql\querybd.h(6): note:  см. объявление "QueryBD"
+  c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.h(5): note:  см. объявление "InsertBD"
+  Создание кода...
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(96): warning C4715: InsertBD::Test_in_table: значение возвращается не при всех путях выполнения
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\insertbd.cpp(201): warning C4715: InsertBD::Searhc_index: значение возвращается не при всех путях выполнения
+c:\users\windows 8.1\desktop\bdmysql\bdmysql\searchbd.cpp(246): warning C4715: SearchBD::Result_view: значение возвращается не при всех путях выполнения
+  BDmySql.vcxproj -> C:\Users\Windows 8.1\Desktop\BDmySql\Debug\BDmySql.exe
